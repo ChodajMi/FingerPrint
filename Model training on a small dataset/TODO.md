@@ -1,0 +1,8 @@
+- [x] Create retrain_model.py to retrain the model for 10 classes
+- [x] Run retrain_model.py to generate updated model
+- [x] Create app.py for Flask backend
+- [x] Create templates/index.html for frontend
+- [x] Create static/css/style.css for styling
+- [x] Create static/js/script.js for interactivity
+- [x] Run app.py to start server
+- [ ] Test the website by uploading images
